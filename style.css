@@ -142,3 +142,7 @@ header input {
   font-size: 13px;
   color: #888;
 }
+a {
+  color: white;
+  text-decoration: none; /* optional - underline hatane ke liye */
+}
